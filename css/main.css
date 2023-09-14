@@ -113,7 +113,7 @@ body {
 .toast {
     display: none;
 	/* transform: translateZ(390px); */
-	bottom: 5%;
+	top: 5%;
 	right: 5%;
 }
 
